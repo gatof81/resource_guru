@@ -7,3 +7,6 @@ The way of spliting a the code and reduce it was new to me and fun to think off 
 
 # Flattern Array
 a simple recursive solution.
+
+# Morse code test:
+added some assertion test to describe better different scenarios were the algorithim works.
